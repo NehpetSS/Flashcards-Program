@@ -1,0 +1,36 @@
+{
+  "cardSets": [
+    {
+      "cardList": [
+        {
+          "term": "t1",
+          "definition": "d1"
+        },
+        {
+          "term": "t2",
+          "definition": "d2"
+        }
+      ],
+      "highPriorityList": [
+        {
+          "term": "t1",
+          "definition": "d1"
+        }
+
+      ],
+      "title": "set1"
+    },
+    {
+      "cardList": [
+        {
+          "term": "t1",
+          "definition": "d1"
+        }
+      ],
+      "highPriorityList": [
+
+      ],
+      "title": "set2"
+    }
+  ]
+}
